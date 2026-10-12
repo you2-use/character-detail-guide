@@ -1,0 +1,15 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "캐릭터 상세 가이드",
+    "version": "2.1.0",
+    "description": "캐릭터 카드 정보를 AI로 정리해 텍스트·HTML 상세 가이드로 저장하고 캐릭터 목록에서 바로 열람·관리할 수 있는 확장입니다.",
+    "runtime": "client",
+    "capabilities": [
+      "full_page_access"
+    ],
+    "jsPath": "extension.js",
+    "cssPath": "extension.css"
+  }
+}
